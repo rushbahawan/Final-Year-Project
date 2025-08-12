@@ -1,4 +1,4 @@
-📌 Overview
+**Blind-Stick-fyp**
 This project is an assistive device designed for visually impaired users.  
 It integrates obstacle detection, fire detection, GPS location tracking, emergency SMS/call functionality, and AI-based object detection with audio feedback.  
 The system is divided into three main parts:
